@@ -191,7 +191,7 @@ AI 추천 처리 영역은 사용자의 초기 입력과 수행 결과를 바탕
 ### 개발 일정표
 
 <p align="center">
-  <img src="images/schedule.png" alt="개발 일정표" width="900"/>
+  <img width="900" alt="개발일정표" src="https://github.com/user-attachments/assets/0e17cc19-298e-4a94-83e9-946ef9f56433" />
 </p>
 
 ---
