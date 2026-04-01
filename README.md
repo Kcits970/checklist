@@ -110,6 +110,12 @@
 - 가입일
 - 초기 상태 입력 내용
 
+### 사용자 특징 정보
+- 사용자 ID
+- 벡터 임베딩
+- 연관 설명
+- 생성 날짜
+  
 ### 습관 정보
 - 습관 ID
 - 습관명
@@ -142,6 +148,10 @@
 - 연속 수행 일수
 - 주요 성공 습관
 - 주요 실패 습관
+
+### 초기 데이터베이스 관계도
+
+<img width="692" height="810" alt="db_initial" src="https://github.com/user-attachments/assets/1b516545-da30-40ec-b6a2-e195a3443c7b" />
 
 ---
 
@@ -180,6 +190,14 @@
 - 오류 수정
 - 발표 자료 제작
 - 최종 보고서 작성
+
+### 예시 인터페이스
+
+<img width="240" alt="KakaoTalk_20260330_003453565_03" src="https://github.com/user-attachments/assets/1884defc-2950-4bb2-8103-50ef8dc6eb0f" />
+<img width="240" alt="KakaoTalk_20260330_003453565_02" src="https://github.com/user-attachments/assets/5b1f49fe-48fb-4618-9703-301411aca573" />
+<img width="240" alt="KakaoTalk_20260330_003453565_01" src="https://github.com/user-attachments/assets/1169a950-ee72-47db-be97-21d56b72c990" />
+<img width="240" alt="KakaoTalk_20260330_003453565" src="https://github.com/user-attachments/assets/24523669-5996-461f-9d1f-98985a2f393e" />
+<img width="240" alt="KakaoTalk_20260330_003453565_04" src="https://github.com/user-attachments/assets/0f2185f6-9b18-4bcc-828d-078d0fe74995" />
 
 ### 개발 일정표
 
